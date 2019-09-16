@@ -1,0 +1,51 @@
+<style>
+table,th,td{
+border: 1px solid black;
+border-collapse:collapse;
+}
+tr:nth-child(2){
+background : yellow;
+}
+tr:nth-child(4){
+background : yellow;
+}
+tr:nth-child(3){
+background : red;
+}
+tr:nth-child(5){
+background : red;
+}
+</style>
+
+ <table>
+      <tr>
+        <th>Namn</th>
+        <th>År</th>
+        <th>klockfrekvens</th>
+        <th>Antal transistor</th>
+      </tr>
+      <tr>
+        <td>INtel 8088</td>
+        <td>intel 80386DX</td>
+        <td>pentium</td>
+        <td>Core i7</td>
+     </tr>
+     <tr>
+        <td>1979</td>
+        <td>1985</td>
+        <td>1993</td>
+        <td>2008</td>
+     </tr>
+     <tr>
+        <td>4.77 MHz</td>
+        <td>16 MHz</td>
+        <td>60 MHz</td>
+        <td>3.33 MHz</td>
+     </tr>
+     <tr>
+        <td>29 000</td>
+        <td>275 000</td>
+        <td>3 100 000</td>
+        <td>781 000 000</td>
+      </tr>
+    </table>
