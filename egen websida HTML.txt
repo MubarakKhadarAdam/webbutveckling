@@ -1,0 +1,53 @@
+<html>
+  <header>
+    <div class="abdi">
+      <img src="https://sportslogohistory.com/wp-content/uploads/2018/05/milwaukee_bucks_matthew_harvey.png" alt="logo" class="logo">
+      <nav>
+        <ul>
+             <li><a href="a">Main</a></li>
+             <li><a href="a">Rep</a></li>
+             <li><a href="a">Ranks</a></li>
+
+        </ul>  
+      </nav>  
+
+    </div> 
+    
+  </header>
+<body>
+<table>
+<tr class="blue">
+     <th>playsharp</th>
+     <th>lockdown</td>
+     <th>streatch big</th>
+</tr>
+<tr>
+     <td>90 speed</td>
+     <td>99 steal</td>
+     <td>shooting over people</td>
+</tr>
+<tr class="green">
+     <td>80 shooting</td>
+     <td>easy to use</td>
+     <td>lowkey trash build</td>
+</tr>
+</table>
+<lu>
+   <li><d>good builds</d></li>
+   <dd class="khadar"><d href="d">playsharp</d></dd>
+   <dd class="khadar"><d href="d">stretch big</d></dd>
+   <dd class="khadar"><d href="d">lockdown</d></dd>
+   <dd class="khadar"><d href="d">post scorer</d></dd>
+</lu> 
+<lu> 
+    <li>ass build</li>
+    <dd class="mubbe"><c href="c">slasher</c></dd>
+</lu> 
+
+<a href="https://2k.com/en-US/">2k länk</a><img src="https://pbs.twimg.com/profile_images/1149709483297214464/pM5IFrae_400x400.png" alt="2k">
+
+
+
+</body>
+</html>
+
